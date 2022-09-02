@@ -15,14 +15,14 @@ Desenvolvido em 2004 por John Gruber e Aaron Swartz para simplificar a estrutura
 A linguagem Markdown pode ser processada em diversos programas, incluindo o Microsoft Word ou o Openoffice.org Writer. Seus arquivos também ficam muito pequenos e dificilmente se "quebram".
 
 # Formatações Básicas 📃
-## Negrito e Itálico 
+## Negrito e Itálico ✅
 * Negrito
 
-Para usar o negrito, basta colocar asteriscos duplos (**  **) ou underlines duplos (__  __)  para delimitar o termo e transformá-lo em **negrito**. Entre o espaço vai o termo que ficará em negrito. Não utilize espaços antes ou depois do termo! 🎯
+Para usar o negrito, basta colocar asteriscos duplos (**  **) ou underlines duplos (__  __)  para delimitar o termo e transformá-lo em **negrito**. Entre o espaço vai o termo que ficará em negrito. Não utilize espaços antes ou depois do termo! ❗🎯
 
 * Itálico 
 
-Para usar o itálico, basta colocar asteriscos simples (* *) ou underlines duplos (_  _)  para delimitar o termo e transformá-lo em *itlálico*. Entre o espaço vai o termo que ficará em itálico. Não utilize espaços antes ou depois do termo! 🎯
+Para usar o itálico, basta colocar asteriscos simples (* *) ou underlines duplos (_  _)  para delimitar o termo e transformá-lo em *itlálico*. Entre o espaço vai o termo que ficará em itálico. Não utilize espaços antes ou depois do termo! ❗🎯
 
 
 
