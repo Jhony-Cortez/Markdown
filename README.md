@@ -18,12 +18,14 @@ A linguagem Markdown pode ser processada em diversos programas, incluindo o Micr
 ## Negrito e Itálico ✅
 * Negrito
 
-Para usar o negrito, basta colocar asteriscos duplos (**  **) ou underlines duplos (__  __)  para delimitar o termo e transformá-lo em **negrito**. Entre o espaço vai o termo que ficará em negrito. Não utilize espaços antes ou depois do termo! ❗🎯
+Para usar o negrito, basta colocar asteriscos duplos ( **  ** ) ou underlines duplos ( __  __ )  para delimitar o termo e transformá-lo em **negrito**. Entre o espaço vai o termo que ficará em negrito. Não utilize espaços antes e depois do termo! ❗🎯
 
 * Itálico 
 
-Para usar o itálico, basta colocar asteriscos simples (* *) ou underlines duplos (_  _)  para delimitar o termo e transformá-lo em *itlálico*. Entre o espaço vai o termo que ficará em itálico. Não utilize espaços antes ou depois do termo! ❗🎯
+Para usar o itálico, basta colocar asteriscos simples ( * * ) ou underlines duplos ( _  _ )  para delimitar o termo e transformá-lo em *itlálico*. Entre o espaço vai o termo que ficará em itálico. Não utilize espaços antes e depois do termo! ❗🎯
 
+## Termo Riscado ✅
+Para riscarmos um termo utilizamos dois símbolos de ~ . Exemplo ( ~~ ~~ ). Entre o espaço vai o termo que ficará ~~riscado~~ . Não utilize espaços antes e depois do termo! ❗🎯
 
 
  
