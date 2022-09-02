@@ -16,6 +16,14 @@ A linguagem Markdown pode ser processada em diversos programas, incluindo o Micr
 
 # Formatações Básicas 📃
 ## Negrito e Itálico 
+* Negrito
+
+Para usar o negrito, basta colocar asteriscos duplos (**  **) ou underlines duplos (__  __)  para delimitar o termo e transformá-lo em **negrito**. Entre o espaço vai o termo que ficará em negrito. Não utilize espaços antes ou depois do termo! 🎯
+
+* Itálico 
+
+Para usar o itálico, basta colocar asteriscos simples (* *) ou underlines duplos (_  _)  para delimitar o termo e transformá-lo em *itlálico*. Entre o espaço vai o termo que ficará em itálico. Não utilize espaços antes ou depois do termo! 🎯
+
 
 
  
