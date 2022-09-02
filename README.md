@@ -2,7 +2,7 @@
 ---
 ## IMPORTANTE 🎯
 
- Este é um guia básico pois sou júnior ainda e não tenho muito conhecimento (ainda) nas tecnologias, mas esse guia é para te ajudar a aprender sobre a linguagem de marcação Markdown.
+ Este é um guia básico pois ainda sou júnior e não tenho muito conhecimento (ainda) nas tecnologias, mas esse guia é para te ajudar a aprender sobre a linguagem de marcação Markdown.
 
 Acredito que pra quem está começando seja muito bom um guia então resolvi criar esse pra você 😉
 
