@@ -28,7 +28,7 @@ Para usar o itálico, basta colocar asteriscos simples ( * * ) ou underlines dup
 Para riscarmos um termo utilizamos dois símbolos de ~ . Exemplo ( ~~ ~~ ). Entre o espaço vai o termo que ficará ~~riscado~~ . Não utilize espaços antes e depois do termo! ❗🎯
 
 ## Misturando Tudo 🪄
-Podemos misturar os símbolos e termos resultados semelhantes a esses: ~~_**MARKDOWN**_~~ , ~~**MARKDOWN**~~ , _**MARKDOWN**_ .
+Podemos misturar os símbolos e termos resultados semelhantes a esses: ~~_**MARKDOWN**_~~ , ~~**MARKDOWN**~~ , _**MARKDOWN**_
 
 
  
