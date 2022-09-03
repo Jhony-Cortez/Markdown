@@ -29,6 +29,7 @@ Para riscarmos um termo utilizamos dois símbolos de ~ . Exemplo ( ~~ ~~ ). Entr
 
 ## Misturando Tudo 🪄
 Podemos misturar os símbolos e termos resultados semelhantes a esses: ~~_**MARKDOWN**_~~ , ~~**MARKDOWN**~~ , _**MARKDOWN**_
-
+--- 
+# Em Produção 🎞️
 
  
