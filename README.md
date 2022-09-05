@@ -33,6 +33,5 @@ Podemos misturar os símbolos e termos resultados semelhantes a esses: ~~_**MARK
 
 # Conteúdo em Produção 🎞️
 --- 
-Ainda estou produzindo o conteúdo...
-
+O conteúdo ainda está sendo produzido...
  
